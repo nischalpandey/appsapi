@@ -1,4 +1,7 @@
 {"isdata":true, 
-"chap":[{"exc":"5.1","pdf":"https://api.ngp.com.np/math11/exc/assets/quadraticequation.pdf"},{"exc":"5.2","pdf":"https://api.ngp.com.np/math11/exc/assets/quadraticequation2.pdf"}]
+"chap":[{"exc":"5.1","pdf":"https://api.ngp.com.np/math11/exc/assets/quadraticequation.pdf"},
+{"exc":"5.2","pdf":"https://api.ngp.com.np/math11/exc/assets/quadraticequation52.pdf"},
+{"exc":"5.3","pdf":"https://api.ngp.com.np/math11/exc/assets/quadraticequation53.pdf"}
+]
 
 }
