@@ -1,0 +1,117 @@
+[
+  {
+    "name": "Sets,Real Number System and Logic.",
+    "link":
+        "http://www.khullakitab.com/sukunda-pustak-bhawan/solutions/grade-11/mathematics/5/solutions",
+    "isMy": false
+  },
+  {
+    "name": "Relations,Functions and Graphs.",
+    "link":
+        "http://www.khullakitab.com/relationsfunctions-and-graphs-/solution/grade-11/mathematics/42/solutions",
+    "isMy": false
+  },
+  {
+    "name": "Curve sketching.",
+    "link":
+        "http://www.khullakitab.com/curve-sketching-/solution/grade-11/mathematics/1005/solutions",
+    "isMy": false
+  },
+  {"name": "Quaridic Equation.", "link": "Quaridic Equation.", "isMy": true},
+  {
+    "name": "Complex Number.",
+    "link":
+        "http://www.khullakitab.com/complex-number-/solution/grade-11/mathematics/1061/solutions",
+    "isMy": false
+  },
+  {
+    "name": "Sequence and Series and Mathematical Induction.",
+    "link":
+        "http://www.khullakitab.com/sequence-and-series-and-mathematical-induction-/solution/grade-11/mathematics/55/solutions",
+    "isMy": false
+  },
+  {
+    "name": "Matrices and Determinants.",
+    "link":
+        "http://www.khullakitab.com/matrices-and-determinants-/solution/grade-11/mathematics/60/solutions",
+    "isMy": false
+  },
+  {
+    "name": "Trigonometric Equations and General Values.",
+    "link":
+        "http://www.khullakitab.com/trigonometric-equations-and-general-values-/solution/grade-11/mathematics/47/solutions",
+    "isMy": false
+  },
+  {
+    "name": "Inverse Circular Functions.",
+    "link":
+        "http://www.khullakitab.com/inverse-circular-functions-/solution/grade-11/mathematics/50/solutions",
+    "isMy": false
+  },
+  {
+    "name": "Properties of Triangle.",
+    "link":
+        "http://www.khullakitab.com/properties-of-triangle-/solution/grade-11/mathematics/52/solutions",
+    "isMy": false
+  },
+  {
+    "name": "Solotion of Triangles.",
+    "link":
+        "http://www.khullakitab.com/solution-of-triangle-/solution/grade-11/mathematics/54/solutions",
+    "isMy": false
+  },
+  {
+    "name": "System of Linear Equations.",
+    "link":
+        "http://www.khullakitab.com/system-of-linear-equations-/solution/grade-11/mathematics/1060/solutions",
+    "isMy": false
+  },
+  {
+    "name": "Polynomial Equations.",
+    "link":
+        "http://www.khullakitab.com/polynomial-equations-/solution/grade-11/mathematics/64/solutions",
+    "isMy": false
+  },
+  {
+    "name": "Straight Line.",
+    "link":
+        "http://www.khullakitab.com/straight-line-/solution/grade-11/mathematics/68/solutions",
+    "isMy": false
+  },
+  {
+    "name": "Pair of Straight Lines.",
+    "link":
+        "http://www.khullakitab.com/pair-of-straight-lines-/solution/grade-11/mathematics/1059/solutions",
+    "isMy": false
+  },
+  {
+    "name": "The circle.",
+    "link":
+        "http://www.khullakitab.com/the-circle-/solution/grade-11/mathematics/71/solutions",
+    "isMy": false
+  },
+  {
+    "name": "Limits and Continuity.",
+    "link":
+        "http://www.khullakitab.com/limits-and-continuity-/solution/grade-11/mathematics/73/solutions",
+    "isMy": false
+  },
+  {
+    "name": "The Derivatives.",
+    "link":
+        "http://www.khullakitab.com/the-derivatives-/solution/grade-11/mathematics/79/solutions",
+    "isMy": false
+  },
+  {
+    "name": "Application of Derivatives.",
+    "link":
+        "http://www.khullakitab.com/application-of-derivatives-/solution/grade-11/mathematics/1062/solutions",
+    "isMy": false
+  },
+  {
+    "name": "Antiderivatives and Its Application.",
+    "link":
+        "http://www.khullakitab.com/antiderivatives-and-its-application-/solution/grade-11/mathematics/1065/solutions",
+    "isMy": false
+  },
+]
