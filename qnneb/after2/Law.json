@@ -1,0 +1,67 @@
+{
+    "intro": "Law, often known as legal studies, affects almost every element of human life, including business, economics, politics, the environment, human rights, international relations, and commerce, to name a few. \n\nA law degree is a well-respected and sought-after course. Different colleges in Nepal provide legal programs ranging from +2 to Ph.D. levels. A law degree is the first step toward working in the legal field.\n\n\nAfter graduating from law school, the student has a wide range of professional choices. A law degree can lead to work as a lawyer, legal secretary, lecturer, management consultant, legal writer/editor, lobbyist, or policy analyst, among other professions. A profession in law provides students with not just a variety of legal job possibilities, but also financial incentives. Students have more progress and possibilities in this field since it is dynamic and intellectually challenging.",
+    "bachlors": {
+        "name": [
+            "Bachelor of Arts - Bachelor of Legislative Law  (BALLB)",
+            "Bachelor of Arts Bachelor of Law  (BALLB)",
+            "Bachelor of Arts Bachelor of Law  (BALLB)",
+            "Bachelor of Arts Bachelor of Law  (BALLB)",
+            "Bachelor of Arts Bachelor of Laws  (BALLB)",
+            "Bachelor of Arts Bachelor of Laws  (BALLB)",
+            "Bachelor of Arts, Bachelor of Law  (BALLB)",
+            "Bachelor of Arts, Bachelor of Laws  (BALLB)",
+            "Bachelor of Economics and Bachelor of Law  (BEc LLB)",
+            "Bachelor of Law  (LLB)",
+            "Bachelor of Laws  (LLB)"
+        ],
+        "college": [
+            "Mid-Western University",
+            "Far-Western University",
+            "Gandaki University",
+            "Rajarshi Janak University",
+            "Pokhara University",
+            "Tribhuvan University",
+            "Lumbini Buddhist University",
+            "Purbanchal University",
+            "Kathmandu University",
+            "Nepal Open University",
+            "Tribhuvan University"
+        ]
+    },
+    "master": {
+        "name": [
+            "Master in Conflict and International Humanitarian Law",
+            "Master in e-Governance",
+            "Master of Laws  (LLM)",
+            "Master of Laws  (LLM)",
+            "Masters by Research in Energy and Infrastructure Law",
+            "Three Years LLM"
+        ],
+        "college": [
+            "Purbanchal University",
+            "Nepal Open University",
+            "Purbanchal University",
+            "Tribhuvan University",
+            "Kathmandu University",
+            "Tribhuvan University"
+        ]
+    },
+    "offeredby": {
+        "name": [
+            "Kailali Multiple Campus",
+            "Tikapur Multiple Campus",
+            "Nepal Law Campus",
+            "School of Law  | Kathmandu University",
+            "Butwal City College",
+            "Butwal Multiple Campus"
+           
+        ],
+        "img": [
+            "https://media.edusanjal.com/__sized__/logos/kailali-thumbnail-100x100.PNG",
+            "https://media.edusanjal.com/__sized__/logos/tmc_logo-thumbnail-100x100.png",
+            "https://media.edusanjal.com/__sized__/logos/4fa295e9c16f4be4ca6ef93a1b7e2aa2-thumbnail-100x100.png",
+            "https://media.edusanjal.com/__sized__/logos/kusl-thumbnail-100x100.PNG",
+            "https://media.edusanjal.com/__sized__/logos/tulogo-thumbnail-100x100.png"
+        ]
+    }
+}

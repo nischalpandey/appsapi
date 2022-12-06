@@ -1,0 +1,205 @@
+{
+    "intro": "Education as a discipline covers most parts of the educational practice. Research, teacher education, teacher training, curriculum development, educational philosophy, modes and methods of educational delivery, education and development are major fields within the discipline.     Educational skill is central to the the discipline of Education. The discipline entails logical reasoning regarding the methodologies applied in educational process as a whole. The discipline is a distinct branch of study dealing with the outcome of training and practice within education system. \n\nThe discipline is often argued as not having distinct methodology or procedure required to be called a discipline however, is regarded as a specific discipline in most parts of the world. Although the core components of the discipline are teachers, curriculum, students, evaluation, educational process and everything within it, it incorporates disciplines like Psychology, History, Social Sciences and many more.",
+    "bachlors": {
+        "name": [
+            "BEd in Chinese Language Teaching  (BEd in CLT)",
+            "Bachelor in Educational Sciences in Nepali  (BES-Nepali)",
+            "Bachelor of Education  (BEd)",
+            "Bachelor of Education  (BEd)",
+            "Bachelor of Education in Information Communication Technology  (BICTE)",
+            "Bachelor of English Education  (BEd)",
+            "Bachelor of Special Needs Education  (B.Ed. SNE)",
+            "Bachelor in Educational Sciences in Education, Planning and Management",
+            "Bachelor in Educational Sciences in English",
+            "Bachelor in Educational Sciences in Health and Physical Education",
+            "Bachelor in Educational Sciences in Mathematics",
+            "Bachelor of Education  (BEd)",
+            "One Year Bachelor of Education  (BEd)",
+            "One year Bachelor of Education  (BEd)",
+            "One year Bachelor of Education  (BEd)",
+            "One year Bachelor's of Education  (BEd)"
+        ],
+        "college": [
+            "Kathmandu University",
+            "Mid-Western University",
+            "Far-Western University",
+            "Tribhuvan University",
+            "Tribhuvan University",
+            "Far-Western University",
+            "Tribhuvan University",
+            "Mid-Western University",
+            "Mid-Western University",
+            "Mid-Western University",
+            "Mid-Western University",
+            "Purbanchal University",
+            "Nepal Sanskrit University",
+            "Nepal Open University",
+            "Tribhuvan University",
+            "Purbanchal University"
+        ]
+    },
+    "pdiploma": {
+        "name": [
+            "Post Graduate Diploma in Mathematics Education",
+            "Post Graduate Diploma in Mathematics Education"
+        ],
+        "college": [
+            "Kathmandu University",
+            "Tribhuvan University"
+        ]
+    },
+    "master": {
+        "name": [
+            "MEd Curriculum and Evaluation",
+            "MEd Education Planning and Management",
+            "MEd Nepali Language Education",
+            "MEd Special Needs Education",
+            "MEd in Early Child Development  (MEd ECD)",
+            "MEd in Information and Communication Technology Education  (MEd ICTED)",
+            "MEd in Leadership and Management",
+            "MEd in Leadership and Management - One Year",
+            "MEd in Mathematics Education",
+            "MEd in Political Science Education",
+            "MEd in Science Education",
+            "MEd in Training and Development",
+            "Master in Educational Science (MES) Education Governance and Leadership Instructional Design and Technology  (MES EGL & IDT)",
+            "Master in Technical and Vocational Education  (MTaVE)",
+            "Master in Technical and Vocational Education and Training  (MTEVT)",
+            "Master of Education  (MEd)",
+            "Master of Education  (MEd)",
+            "Master of Education General  (M.Ed)",
+            "Master of Education in Economics Education",
+            "Master of Education in Geography Education  (M.Ed)",
+            "Master of Education in Health Education  (M.Ed)",
+            "Master of Education in History Education  (M.Ed)",
+            "Master of Education in Physical Education  (M.Ed)",
+            "Master of Education in Population Education  (M.Ed)",
+            "Master of Educational Sciences in Education, Planning and Management",
+            "Master of Educational Sciences in Health and Physical Education",
+            "Master of Educational Sciences in Nepali",
+            "Master of Social Studies Education  (MSSEd)",
+            "Masterof Educational Sciences in Curriculum and Evaluation",
+            "Masters of Education in Mathematics Education",
+            "MEd in English Language Education",
+            "MEd in English Language Teaching",
+            "MEd in English Language Teaching - One Year  (M Ed in ELT)",
+            "Master of Educational Sciences in English  (MES English)"
+        ],
+        "college": [
+            "Tribhuvan University",
+            "Tribhuvan University",
+            "Tribhuvan University",
+            "Tribhuvan University",
+            "Kathmandu University",
+            "Tribhuvan University",
+            "Kathmandu University",
+            "Kathmandu University",
+            "Kathmandu University",
+            "Tribhuvan University",
+            "Tribhuvan University",
+            "Kathmandu University",
+            "Nepal Open University",
+            "Kathmandu University",
+            "Kathmandu University",
+            "Far-Western University",
+            "Purbanchal University",
+            "Tribhuvan University",
+            "Tribhuvan University",
+            "Tribhuvan University",
+            "Tribhuvan University",
+            "Tribhuvan University",
+            "Tribhuvan University",
+            "Tribhuvan University",
+            "Mid-Western University",
+            "Mid-Western University",
+            "Mid-Western University",
+            "Tribhuvan University",
+            "Mid-Western University",
+            "Tribhuvan University",
+            "Tribhuvan University",
+            "Kathmandu University",
+            "Kathmandu University",
+            "Mid-Western University"
+        ]
+    },
+    "masterofphilosophy": {
+        "name": [
+            "MPhil by Research in Mathematics Education",
+            "MPhil in Curriculum, Planning, and Leadership (MPhil CPL)",
+            "MPhil in Education",
+            "MPhil in Educational Leadership",
+            "MPhil in Educational Studies",
+            "MPhil in English Education",
+            "MPhil in English Language Education",
+            "MPhil in Health Education",
+            "MPhil in Mathematics Education",
+            "MPhil in Nepali Education",
+            "MPhil in STEAM Education",
+            "MPhil in Social Sciences Education",
+            "One Year M Ed in STEAM Education"
+        ],
+        "college": [
+            "Kathmandu University",
+            "Far Western University",
+            "Tribhuvan University",
+            "Kathmandu University",
+            "Nepal Open University",
+            "Nepal Open University",
+            "Kathmandu University",
+            "Nepal Open University",
+            "Nepal Open University",
+            "Nepal Open University",
+            "Kathmandu University",
+            "Nepal Open University",
+            "Kathmandu University"
+        ]
+    },
+    "doctor": {
+        "name": [
+            "PhD in Curriculum, Planning, and Leadership (PhD CPL)",
+            "PhD in Education",
+            "PhD in Education"
+        ],
+        "college": [
+            "Far Western University",
+            "Kathmandu University",
+            "Tribhuvan University"
+        ]
+    },
+    "offeredby": {
+        "name": [
+            "Janapriya Multiple Campus",
+            "Janamaitri Multiple Campus",
+            "Koteshwor Multiple Campus",
+            "Karfok Bidya Mandir Multiple Campus",
+            "Siddhartha Gautam Buddha Campus",
+            "Kalika Multiple Campus",
+            "Surya Bhakta Patanadevi Memorial College",
+            "Kailali Multiple Campus",
+            "Mahendra Ratna Campus",
+            "Mahendra Ratna Multiple Campus Ilam",
+            "Tikapur Multiple Campus",
+            "Sanothimi Campus",
+            "School of Education  | Kathmandu University",
+            "Mahendra Morang Adarsha Multiple Campus",
+            "Butwal Multiple Campus"
+          
+        ],
+        "img": [
+            "https://media.edusanjal.com/__sized__/logos/janapriya-logo-thumbnail-100x100-70.jpg",
+            "https://media.edusanjal.com/__sized__/logos/JMC-logooo-thumbnail-100x100-70.jpg",
+            "https://media.edusanjal.com/__sized__/logos/koteshwor-multiple-campus-logo-thumbnail-100x100-70.jpg",
+            "https://media.edusanjal.com/__sized__/logos/SGBC-thumbnail-100x100-70.jpg",
+            "https://media.edusanjal.com/__sized__/logos/kalika_multiple_campus-thumbnail-100x100-70.jpg",
+            "https://media.edusanjal.com/__sized__/logos/SPM-College-Logo-WEB-1-thumbnail-100x100.png",
+            "https://media.edusanjal.com/__sized__/logos/kailali-thumbnail-100x100.PNG",
+            "https://media.edusanjal.com/__sized__/logos/Tahachal-thumbnail-100x100-70.JPG",
+            "https://media.edusanjal.com/__sized__/logos/mrm_ilam-thumbnail-100x100.png",
+            "https://media.edusanjal.com/__sized__/logos/tmc_logo-thumbnail-100x100.png",
+            "https://media.edusanjal.com/__sized__/logos/TU_logo-thumbnail-100x100.png",
+            "https://media.edusanjal.com/__sized__/logos/653b7b4dda31cccf00db40ccebfd7356-thumbnail-100x100-70.jpg",
+            "https://media.edusanjal.com/__sized__/logos/TU-thumbnail-100x100-70.jpg",
+            "https://media.edusanjal.com/__sized__/logos/tulogo-thumbnail-100x100.png"
+        ]
+    }
+}
