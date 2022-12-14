@@ -1,123 +1,127 @@
 {
     "data": [
         {
-            "chapter": "Permutation and Combination",
+            "chapter": "Permutation and Combination.",
             "url": "http://www.khullakitab.com/basic-mathematics/solutions/grade-12/mathematics/15/solutions",
             "ismy": false
         },
         {
-            "chapter": "Binomial Theorem, Exponential and Logarithmic Series",
+            "chapter": "Binomial Theorem, Exponential and Logarithmic Series.",
             "url": "http://www.khullakitab.com/binomial-theorem-exponential-and-logarithmic-series/solution/grade-12/mathematics/152/solutions",
             "ismy": false
         },
         {
-            "chapter": "Elementary Group Theory",
+            "chapter": "Elementary Group Theory.",
             "url": "http://www.khullakitab.com/elementary-group-theory/solution/grade-12/mathematics/155/solutions",
             "ismy": false
         },
-        {"name": "Quadratic Equation.", "url": "", "ismy": true},
         {
-            "chapter": "Conic Section",
+            "name": "Quadratic Equation.",
+            "url": "ok",
+            "ismy": true
+        },
+        {
+            "chapter": "Conic Section.",
             "url": "http://www.khullakitab.com/conic-section/solution/grade-12/mathematics/160/solutions",
             "ismy": false
         },
         {
-            "chapter": "Coordinates in Space",
+            "chapter": "Coordinates in Space.",
             "url": "http://www.khullakitab.com/coordinates-in-space/solution/grade-12/mathematics/164/solutions",
             "ismy": false
         },
         {
-            "chapter": "Plane",
+            "chapter": "Plane.",
             "url": "http://www.khullakitab.com/plane/solution/grade-12/mathematics/166/solutions",
             "ismy": false
         },
         {
-            "chapter": "Vectors and Vector Geometry",
+            "chapter": "Vectors and Vector Geometry.",
             "url": "http://www.khullakitab.com/vectors-and-vector-geometry/solution/grade-12/mathematics/167/solutions",
             "ismy": false
         },
         {
-            "chapter": "Products of Two vectors",
+            "chapter": "Products of Two vectors.",
             "url": "http://www.khullakitab.com/products-of-two-vectors/solution/grade-12/mathematics/169/solutions",
             "ismy": false
         },
         {
-            "chapter": "Derivatives",
+            "chapter": "Derivatives.",
             "url": "http://www.khullakitab.com/derivatives/solution/grade-12/mathematics/171/solutions",
             "ismy": false
         },
         {
-            "chapter": "Application of Derivatives",
+            "chapter": "Application of Derivatives.",
             "url": "http://www.khullakitab.com/application-of-derivatives/solution/grade-12/mathematics/172/solutions",
             "ismy": false
         },
         {
-            "chapter": "Antiderivative",
+            "chapter": "Antiderivative.",
             "url": "http://www.khullakitab.com/antiderivative/solution/grade-12/mathematics/177/solutions",
             "ismy": false
         },
         {
-            "chapter": "Differential Equations",
+            "chapter": "Differential Equations.",
             "url": "http://www.khullakitab.com/differential-equations/solution/grade-12/mathematics/181/solutions",
             "ismy": false
         },
         {
-            "chapter": "Statistics",
+            "chapter": "Statistics.",
             "url": "http://www.khullakitab.com/statistics/solution/grade-12/mathematics/185/solutions",
             "ismy": false
         },
         {
-            "chapter": "Probability",
+            "chapter": "Probability.",
             "url": "http://www.khullakitab.com/probability/solution/grade-12/mathematics/188/solutions",
             "ismy": false
         },
         {
-            "chapter": "Composition and Resolution of Concurrent Forces",
+            "chapter": "Composition and Resolution of Concurrent Forces.",
             "url": "http://www.khullakitab.com/composition-and-resolution-of-concurrent-forces/solution/grade-12/mathematics/190/solutions",
             "ismy": false
         },
         {
-            "chapter": "Parallel Forces, Moments and Couples",
+            "chapter": "Parallel Forces, Moments and Couples.",
             "url": "http://www.khullakitab.com/parallel-forces-moments-and-couples/solution/grade-12/mathematics/193/solutions",
             "ismy": false
         },
         {
-            "chapter": "Kinetics : The Geometry of Motion",
+            "chapter": "Kinetics : The Geometry of Motion.",
             "url": "http://www.khullakitab.com/kinetics-:-the-geometry-of-motion/solution/grade-12/mathematics/196/solutions",
             "ismy": false
         },
         {
-            "chapter": "Newton's Law of Motion",
+            "chapter": "Newton's Law of Motion.",
             "url": "http://www.khullakitab.com/newtons-law-of-motion/solution/grade-12/mathematics/199/solutions",
             "ismy": false
         },
         {
-            "chapter": "Projectiles",
+            "chapter": "Projectiles.",
             "url": "http://www.khullakitab.com/projectiles/solution/grade-12/mathematics/202/solutions",
             "ismy": false
         },
         {
-            "chapter": "Work, Energy and Power",
+            "chapter": "Work, Energy and Power.",
             "url": "http://www.khullakitab.com/work-energy-and-power/solution/grade-12/mathematics/203/solutions",
             "ismy": false
         },
         {
-            "chapter": "Linear Programming",
+            "chapter": "Linear Programming.",
             "url": "http://www.khullakitab.com/linear-programming/solution/grade-12/mathematics/206/solutions",
             "ismy": false
         },
         {
-            "chapter": "Computational Methods",
+            "chapter": "Computational Methods.",
             "url": "http://www.khullakitab.com/computational-methods/solution/grade-12/mathematics/211/solutions",
             "ismy": false
         },
         {
-            "chapter": "System of Linear Equations",
+            "chapter": "System of Linear Equations.",
             "url": "http://www.khullakitab.com/system-of-linear-equations/solution/grade-12/mathematics/209/solutions",
             "ismy": false
         },
         {
-            "chapter": "Numerical Integration",
+            "chapter": "Numerical Integration.",
             "url": "http://www.khullakitab.com/numerical-integration/solution/grade-12/mathematics/208/solutions",
             "ismy": false
         }
