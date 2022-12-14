@@ -2,7 +2,6 @@
 "chap":[{"exc":"5.1","pdf":"https://api.ngp.com.np/math11/exc/assets/quadraticequation.pdf"},
 {"exc":"5.2","pdf":"https://api.ngp.com.np/math11/exc/assets/quadraticequation52.pdf"},
 {"exc":"5.3","pdf":"https://api.ngp.com.np/math11/exc/assets/quadraticequation53.pdf"}
-],
-"_comment":"File name should be small without extension as in main.json"
+]
 
 }
