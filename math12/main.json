@@ -15,8 +15,18 @@
             "url": "http://www.khullakitab.com/elementary-group-theory/solution/grade-12/mathematics/155/solutions",
             "ismy": false
         },
+{
+            "chapter": "Complex Numbers.",
+            "url": "",
+            "ismy": true
+        },
         {
             "chapter": "Quadratic Equation.",
+            "url": "",
+            "ismy": true
+        },
+{
+            "chapter": "Sequence and Series.",
             "url": "",
             "ismy": true
         },
